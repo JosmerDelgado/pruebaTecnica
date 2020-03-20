@@ -1,0 +1,14 @@
+{
+  "name": "appdirect",
+  "version": "1.0.0",
+  "description": "",
+  "main": "translator.test.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "jest": "^25.1.0"
+  }
+}
